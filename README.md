@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/adelinejune/coming-soon-page](https://github.com/adelinejune/coming-soon-page)
-- Live Site URL: [https://adelinejune.github.io/coming-soon-page.github.io/](https://adelinejune.github.io/coming-soon-page.github.io/)
+- Live Site URL: [https://adelinejune.github.io/coming-soon-page/](https://adelinejune.github.io/coming-soon-page/)
 
 
 ### Built with
